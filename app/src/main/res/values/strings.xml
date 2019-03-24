@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nexusdemo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="body">SECE is a newly formed departmental society. It was established on 18th of Feb,2015.
+        The initiative was taken by the Head, Department of Electronics and Communication Engineering, Prof. (Dr.) S.N Singh, in tandem with ECE 2k12 students.
+        Prof. Amit Prakash and Prof. B. Pradhan are Faculty Advisors of this society with Anuj Goyal as its student President.
+        The Society is currently 200 strong. The prime objective of SECE is promoting and advancing the study and practice of Science and Technology with a special emphasis on electronics and communication.
+        Shortly after its inception, an Analog Maker Competition was held, in association with Texas Instruments in which over 200 students participated from different streams of engineering.
+        SECE looks forward to organise International conferences and Guest Lectures, Paper Presentations and various other events to further the cause of engineering.</string>
+</resources>
